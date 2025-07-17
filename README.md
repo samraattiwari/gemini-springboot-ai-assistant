@@ -1,10 +1,6 @@
 # gemini-springboot-ai-assistant
 "Smart AI Assistant using Spring Boot and Google Gemini API."
 
-# Gemini Spring Boot AI Assistant
-
-A portfolio project showcasing the integration of **Google Gemini Generative AI** into a Spring Boot application.
-
 ---
 
 ## 🚀 Features
